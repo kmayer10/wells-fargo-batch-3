@@ -4,4 +4,5 @@ target/
 **/password.txt
 **/*.jar
 *.war
+*.dll
 bin/*.dll
